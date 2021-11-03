@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "class8-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "npm i express",
+  "license": "ISC",
+  "description": ""
+}
